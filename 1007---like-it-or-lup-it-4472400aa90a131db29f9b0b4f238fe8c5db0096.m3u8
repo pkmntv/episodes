@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="llnwsubtitles",NAME="en",DEFAULT=NO,FORCED=NO,URI="vtt/8/en.m3u8",LANGUAGE="en"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=736000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/419bb384cea846eb8bb2df076484adb0/c1faec2315a34fdfb47b53e99571270a/1007---like-it-or-lup-it.mpegts/playlist-8a44dcbf48335f6d268ca1133666c0ef23429b64.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=64000,SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/419bb384cea846eb8bb2df076484adb0/337fd4bc31374b27a1b8e206d10a074a/1007---like-it-or-lup-it.mpegts/playlist-e7552e212c4c32ff2b3bd6452e2c4955a2ab1360.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=206000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/419bb384cea846eb8bb2df076484adb0/e75b8d400d784999a229ad4fb8dfbc08/1007---like-it-or-lup-it.mpegts/playlist-1e8aef2a58f4172f8814980ab0b2419508a15120.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=480000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/419bb384cea846eb8bb2df076484adb0/ea829758beb74bee8c7462436eddcce0/1007---like-it-or-lup-it.mpegts/playlist-0642a488aec2c40ee6cbf083671c54f28aaf7f17.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1088000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/419bb384cea846eb8bb2df076484adb0/6dfb7e202d4749cfbe253fadba9c7c61/1007---like-it-or-lup-it.mpegts/playlist-cac5bc5be8f32c1d8ac1276d36d3dfc991614a2d.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1296000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/419bb384cea846eb8bb2df076484adb0/b5101d94802f4387a831313c26f5b81e/1007---like-it-or-lup-it.mpegts/playlist-ade80ddc2f59350bafd59a2f46cedb8442833521.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1456000,RESOLUTION=640x480,CODECS="avc1.77.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/419bb384cea846eb8bb2df076484adb0/86d7c43d481f4f70a66a332ac73aaf4f/1007---like-it-or-lup-it.mpegts/playlist-b3ac955f688d8198ac56496ee69b2425eedda
