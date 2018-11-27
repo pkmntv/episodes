@@ -18,9 +18,13 @@ is available [here][7]
 
 Fixed m3u8 file [DP006.m3u8][8]
 
+## Viewing
+
+MP3 url streams can be tested using [this online tool][9]
+
 ## License
 
-episodes is released under the [MIT license][9]
+episodes is released under the [MIT license][10]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -30,4 +34,5 @@ episodes is released under the [MIT license][9]
   [6]: https://raw.githubusercontent.com/pkmntv/episodes/master/1006---different-strokes-b7dd95a50aa8ffe3db327334d390633818e4f711.m3u8
   [7]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sX/V6EbWaIzIxKCl8tpDWgcRred5T61FLqJmJZS7_7n0/1006---different-strokes-b7dd95a50aa8ffe3db327334d390633818e4f711.m3u8
   [8]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP006.m3u8
-  [9]: https://opensource.org/licenses/MIT
+  [9]: http://player.streamingtvguides.com/
+  [10]: https://opensource.org/licenses/MIT
