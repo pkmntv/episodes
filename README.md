@@ -11,38 +11,39 @@ brute force enumeration of the remaining characters.
 
 ## Listing
 
-### DP006 - Different Strokes for Different Blokes
+### DP006 - [Different Strokes for Different Blokes][6]
 
-Original m3u8 file [1006---different-strokes-b7dd95a50aa8ffe3db327334d390633818e4f711.m3u8][6]
-is available [here][7]
+Original m3u8 file [1006---different-strokes-b7dd95a50aa8ffe3db327334d390633818e4f711.m3u8][7]
+is available [here][8]
 
-Fixed m3u8 file [DP006.m3u8][8]
+Fixed m3u8 file [DP006.m3u8][9]
 
 ### DP007 - Like It or Lup It!
 
-Original m3u8 file [1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8][9]
-is available [here][10]
+Original m3u8 file [1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8][10]
+is available [here][11]
 
-Fixed m3u8 file [DP007.m3u8][11]
+Fixed m3u8 file [DP007.m3u8][12]
 
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][12]
+MP3 url streams can be tested using [this online tool][13]
 
 ## License
 
-episodes is released under the [MIT license][13]
+episodes is released under the [MIT license][14]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
   [3]: https://en.wikipedia.org/wiki/Content_delivery_network
   [4]: https://www.limelight.com/
   [5]: https://en.wikipedia.org/wiki/HTTP_Live_Streaming
-  [6]: https://raw.githubusercontent.com/pkmntv/episodes/master/1006---different-strokes-b7dd95a50aa8ffe3db327334d390633818e4f711.m3u8
-  [7]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sX/V6EbWaIzIxKCl8tpDWgcRred5T61FLqJmJZS7_7n0/1006---different-strokes-b7dd95a50aa8ffe3db327334d390633818e4f711.m3u8
-  [8]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP006.m3u8
-  [9]: https://raw.githubusercontent.com/pkmntv/episodes/master/1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8
-  [10]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/P-JUoMCtUH6Lqtd5wTsbojS8j3pyRgdvrWXTxj5s8/1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8
-  [11]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP007.m3u8
-  [12]: http://player.streamingtvguides.com/
-  [13]: https://opensource.org/licenses/MIT
+  [6]: https://bulbapedia.bulbagarden.net/wiki/DP006
+  [7]: https://raw.githubusercontent.com/pkmntv/episodes/master/1006---different-strokes-b7dd95a50aa8ffe3db327334d390633818e4f711.m3u8
+  [8]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/sX/V6EbWaIzIxKCl8tpDWgcRred5T61FLqJmJZS7_7n0/1006---different-strokes-b7dd95a50aa8ffe3db327334d390633818e4f711.m3u8
+  [9]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP006.m3u8
+  [10]: https://raw.githubusercontent.com/pkmntv/episodes/master/1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8
+  [11]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/P-JUoMCtUH6Lqtd5wTsbojS8j3pyRgdvrWXTxj5s8/1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8
+  [12]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP007.m3u8
+  [13]: http://player.streamingtvguides.com/
+  [14]: https://opensource.org/licenses/MIT
