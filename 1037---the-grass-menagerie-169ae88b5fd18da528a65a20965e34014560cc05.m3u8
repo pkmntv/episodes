@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="llnwsubtitles",NAME="en",DEFAULT=NO,FORCED=NO,URI="vtt/6/en.m3u8",LANGUAGE="en"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=736000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/eb88c005208540c880060d7cda4255cd/2ef8bddfe0d04dd2bf69aad7dc0f9d27/1037---the-grass-menagerie.mpegts/playlist-e527e04c995eb53802d22f840c232e702d14a3ab.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=64000,SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/eb88c005208540c880060d7cda4255cd/c0d69bae1711438284dafab59272324e/1037---the-grass-menagerie.mpegts/playlist-421f95885220fe93f0f49ac349fdb41317d4cace.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=206000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/eb88c005208540c880060d7cda4255cd/ef4227fa59ee4bd7b1e50d1a6ea6832e/1037---the-grass-menagerie.mpegts/playlist-43558f7266dddf4aa069fed27c774f2f54d09757.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=480000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/eb88c005208540c880060d7cda4255cd/d8e0b78151224f2aba1ecb23a5ba8153/1037---the-grass-menagerie.mpegts/playlist-c0015dad1f5fe048c4d6bf249ae7e77db66ecc9d.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1088000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/eb88c005208540c880060d7cda4255cd/f70bfc79eb1143f6a1845fff420a950c/1037---the-grass-menagerie.mpegts/playlist-760a258798f1eeab102710c5d0ee3648cb47ab4d.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1296000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/eb88c005208540c880060d7cda4255cd/058607598cc343cab0900c5c94c2dc35/1037---the-grass-menagerie.mpegts/playlist-2e079487fd426f9dea56068562dd0a119570deb7.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1456000,RESOLUTION=640x480,CODECS="avc1.77.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/eb88c005208540c880060d7cda4255cd/88d160b5cade4befacb88b8fe750ca8b/1037---the-grass-menagerie.mpegts/playlist-3043e413204e14d6fb56f27fead531516e22c51

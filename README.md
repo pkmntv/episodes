@@ -39,13 +39,20 @@ is available [here][20]
 
 Fixed m3u8 file [DP029.m3u8][21]
 
+### [DP037][22] - The Grass Menagerie!
+
+Original m3u8 file [1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8][23]
+is available [here][24]
+
+Fixed m3u8 file [DP037.m3u8][25]
+
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][22]
+MP3 url streams can be tested using [this online tool][26]
 
 ## License
 
-episodes is released under the [MIT license][23]
+episodes is released under the [MIT license][27]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -68,5 +75,9 @@ episodes is released under the [MIT license][23]
   [19]: https://raw.githubusercontent.com/pkmntv/episodes/master/1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8
   [20]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8Z/WeNEiO1TgFK4kxhg6db5eB0l3Qg5guDyeFabRd3v0/1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8
   [21]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP029.m3u8
-  [22]: http://player.streamingtvguides.com/
-  [23]: https://opensource.org/licenses/MIT
+  [22]: https://bulbapedia.bulbagarden.net/wiki/DP037
+  [23]: https://raw.githubusercontent.com/pkmntv/episodes/master/1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8
+  [24]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YX/8JK-bUki9ikTGiusm6SWFIVSrdlm9N30JDiS5O9FU/1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8
+  [25]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP037.m3u8
+  [26]: http://player.streamingtvguides.com/
+  [27]: https://opensource.org/licenses/MIT
