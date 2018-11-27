@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="llnwsubtitles",NAME="en",DEFAULT=NO,FORCED=NO,URI="vtt/6/en.m3u8",LANGUAGE="en"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=736000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/51db8a5c8e6b4982aaf6eb6a18915cad/ac0feeee8c174d2599d90c2aac57ab37/1040---top-down-training.mpegts/playlist-96b065c20c34829b20b443996842961cd332ae2f.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=64000,SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/51db8a5c8e6b4982aaf6eb6a18915cad/c6f5d622ae7a4ae596b1c5d6562f401a/1040---top-down-training.mpegts/playlist-60d97cd4a6d2641bfb4769ef23d9cc135f85bca6.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=206000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/51db8a5c8e6b4982aaf6eb6a18915cad/6d5692655c81469a80d019266cf1964c/1040---top-down-training.mpegts/playlist-c25aec294f0eddabca4f32043c1d2a3637d63b0a.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=480000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/51db8a5c8e6b4982aaf6eb6a18915cad/75a1823f770944fba272e25b5888350a/1040---top-down-training.mpegts/playlist-8e9a5b458fd5a9d0f7ca9eb407d45b63564effef.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1088000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/51db8a5c8e6b4982aaf6eb6a18915cad/8c7de19ded5c4b648e2e60a7737de6f9/1040---top-down-training.mpegts/playlist-62af9ea07e11b75a3fb10cd396b34aa1777fad40.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1296000,RESOLUTION=640x480,CODECS="avc1.66.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/51db8a5c8e6b4982aaf6eb6a18915cad/c49367cb8167417889a06ece4f5f8a50/1040---top-down-training.mpegts/playlist-3557597c3f7918e0d44491286a93ff6cca22d64f.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1456000,RESOLUTION=640x480,CODECS="avc1.77.30,mp4a.40.2",SUBTITLES="llnwsubtitles"
+http://s2.cpl.delvenetworks.com/media/4953336d7f544f678a12270b176ea386/51db8a5c8e6b4982aaf6eb6a18915cad/8e97625058f0497386d64a1b424a8cd2/1040---top-down-training.mpegts/playlist-c230a3599cc4505398810725a0904ef980e92

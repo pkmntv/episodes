@@ -46,13 +46,20 @@ is available [here][24]
 
 Fixed m3u8 file [DP037.m3u8][25]
 
+### [DP040][26] - Top-Down Training!
+
+Original m3u8 file [1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8][27]
+is available [here][28]
+
+Fixed m3u8 file [DP040.m3u8][29]
+
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][26]
+MP3 url streams can be tested using [this online tool][30]
 
 ## License
 
-episodes is released under the [MIT license][27]
+episodes is released under the [MIT license][31]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -79,5 +86,9 @@ episodes is released under the [MIT license][27]
   [23]: https://raw.githubusercontent.com/pkmntv/episodes/master/1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8
   [24]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YX/8JK-bUki9ikTGiusm6SWFIVSrdlm9N30JDiS5O9FU/1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8
   [25]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP037.m3u8
-  [26]: http://player.streamingtvguides.com/
-  [27]: https://opensource.org/licenses/MIT
+  [26]: https://bulbapedia.bulbagarden.net/wiki/DP040
+  [27]: https://raw.githubusercontent.com/pkmntv/episodes/master/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
+  [28]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ud/U_sVvfDHuxlYLw-8HlrNVNlmAKXl_K77XwGk4R1kE/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
+  [29]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP040.m3u8
+  [30]: http://player.streamingtvguides.com/
+  [31]: https://opensource.org/licenses/MIT
