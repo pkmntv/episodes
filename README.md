@@ -32,13 +32,20 @@ is available [here][16]
 
 Fixed m3u8 file [DP028.m3u8][17]
 
+### [DP029][18] - The Champ Twins!
+
+Original m3u8 file [1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8][19]
+is available [here][20]
+
+Fixed m3u8 file [DP029.m3u8][21]
+
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][18]
+MP3 url streams can be tested using [this online tool][22]
 
 ## License
 
-episodes is released under the [MIT license][19]
+episodes is released under the [MIT license][23]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -57,5 +64,9 @@ episodes is released under the [MIT license][19]
   [15]: https://raw.githubusercontent.com/pkmntv/episodes/master/1028---drifloon-on-the-wind-bcde3656216e52a000cded219576f4e094d1933c.m3u8
   [16]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZG/gEZeJ5OWBPq7tCIrkDc6lp_sIe54qJMVyOEPoAWcA/1028---drifloon-on-the-wind-bcde3656216e52a000cded219576f4e094d1933c.m3u8
   [17]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP028.m3u8
-  [18]: http://player.streamingtvguides.com/
-  [19]: https://opensource.org/licenses/MIT
+  [18]: https://bulbapedia.bulbagarden.net/wiki/DP029
+  [19]: https://raw.githubusercontent.com/pkmntv/episodes/master/1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8
+  [20]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8Z/WeNEiO1TgFK4kxhg6db5eB0l3Qg5guDyeFabRd3v0/1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8
+  [21]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP029.m3u8
+  [22]: http://player.streamingtvguides.com/
+  [23]: https://opensource.org/licenses/MIT
