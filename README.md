@@ -25,13 +25,20 @@ is available [here][12]
 
 Fixed m3u8 file [DP007.m3u8][13]
 
+### [DP028][14] - Drifloon On the Wind!
+
+Original m3u8 file [1028---drifloon-on-the-wind-bcde3656216e52a000cded219576f4e094d1933c.m3u8][15]
+is available [here][16]
+
+Fixed m3u8 file [DP028.m3u8][17]
+
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][14]
+MP3 url streams can be tested using [this online tool][18]
 
 ## License
 
-episodes is released under the [MIT license][15]
+episodes is released under the [MIT license][19]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -46,5 +53,9 @@ episodes is released under the [MIT license][15]
   [11]: https://raw.githubusercontent.com/pkmntv/episodes/master/1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8
   [12]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/P-JUoMCtUH6Lqtd5wTsbojS8j3pyRgdvrWXTxj5s8/1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8
   [13]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP007.m3u8
-  [14]: http://player.streamingtvguides.com/
-  [15]: https://opensource.org/licenses/MIT
+  [14]: https://bulbapedia.bulbagarden.net/wiki/DP028
+  [15]: https://raw.githubusercontent.com/pkmntv/episodes/master/1028---drifloon-on-the-wind-bcde3656216e52a000cded219576f4e094d1933c.m3u8
+  [16]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZG/gEZeJ5OWBPq7tCIrkDc6lp_sIe54qJMVyOEPoAWcA/1028---drifloon-on-the-wind-bcde3656216e52a000cded219576f4e094d1933c.m3u8
+  [17]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP028.m3u8
+  [18]: http://player.streamingtvguides.com/
+  [19]: https://opensource.org/licenses/MIT
