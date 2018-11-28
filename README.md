@@ -19,27 +19,22 @@ brute force enumeration of the remaining characters.
 
 [DP037][10]
 
-### [DP040][11] - Top-Down Training!
+[DP040][11]
 
-Original m3u8 file [1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8][12]
-is available [here][13]
+### [DP044][12] - Mass Hip-Po-Sis!
 
-Fixed m3u8 file [DP040.m3u8][14]
+Original m3u8 file [1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8][13]
+is available [here][14]
 
-### [DP044][15] - Mass Hip-Po-Sis!
-
-Original m3u8 file [1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8][16]
-is available [here][17]
-
-Fixed m3u8 file [DP044.m3u8][18]
+Fixed m3u8 file [DP044.m3u8][15]
 
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][19]
+MP3 url streams can be tested using [this online tool][16]
 
 ## License
 
-episodes is released under the [MIT license][20]
+episodes is released under the [MIT license][17]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -51,13 +46,10 @@ episodes is released under the [MIT license][20]
   [8]: https://github.com/pkmntv/episodes/tree/master/DP028
   [9]: https://github.com/pkmntv/episodes/tree/master/DP029
   [10]: https://github.com/pkmntv/episodes/tree/master/DP037
-  [11]: https://bulbapedia.bulbagarden.net/wiki/DP040
-  [12]: https://raw.githubusercontent.com/pkmntv/episodes/master/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
-  [13]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ud/U_sVvfDHuxlYLw-8HlrNVNlmAKXl_K77XwGk4R1kE/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
-  [14]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP040.m3u8
-  [15]: https://bulbapedia.bulbagarden.net/wiki/DP044
-  [16]: https://raw.githubusercontent.com/pkmntv/episodes/master/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
-  [17]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FK/N5gRNbKEC1pQvTT4n0VGCSvuaDAO8bmx8zxVo8nsY/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
-  [18]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP044.m3u8
-  [19]: http://player.streamingtvguides.com/
-  [20]: https://opensource.org/licenses/MIT
+  [11]: https://github.com/pkmntv/episodes/tree/master/DP040
+  [12]: https://bulbapedia.bulbagarden.net/wiki/DP044
+  [13]: https://raw.githubusercontent.com/pkmntv/episodes/master/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
+  [14]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FK/N5gRNbKEC1pQvTT4n0VGCSvuaDAO8bmx8zxVo8nsY/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
+  [15]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP044.m3u8
+  [16]: http://player.streamingtvguides.com/
+  [17]: https://opensource.org/licenses/MIT
