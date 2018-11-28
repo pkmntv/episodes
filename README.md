@@ -53,13 +53,20 @@ is available [here][28]
 
 Fixed m3u8 file [DP040.m3u8][29]
 
+### [DP044][30] - Mass Hip-Po-Sis!
+
+Original m3u8 file [1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8][31]
+is available [here][32]
+
+Fixed m3u8 file [DP044.m3u8][33]
+
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][30]
+MP3 url streams can be tested using [this online tool][34]
 
 ## License
 
-episodes is released under the [MIT license][31]
+episodes is released under the [MIT license][35]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -90,5 +97,9 @@ episodes is released under the [MIT license][31]
   [27]: https://raw.githubusercontent.com/pkmntv/episodes/master/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
   [28]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ud/U_sVvfDHuxlYLw-8HlrNVNlmAKXl_K77XwGk4R1kE/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
   [29]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP040.m3u8
-  [30]: http://player.streamingtvguides.com/
-  [31]: https://opensource.org/licenses/MIT
+  [30]: https://bulbapedia.bulbagarden.net/wiki/DP044
+  [31]: https://raw.githubusercontent.com/pkmntv/episodes/master/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
+  [32]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FK/N5gRNbKEC1pQvTT4n0VGCSvuaDAO8bmx8zxVo8nsY/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
+  [33]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP044.m3u8
+  [34]: http://player.streamingtvguides.com/
+  [35]: https://opensource.org/licenses/MIT
