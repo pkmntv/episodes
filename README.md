@@ -12,50 +12,46 @@ brute force enumeration of the remaining characters.
 ## Listing
 
 [DP006][6]
+
 [DP007][7]
 
-### [DP028][8] - Drifloon On the Wind!
+[DP028][8]
 
-Original m3u8 file [1028---drifloon-on-the-wind-bcde3656216e52a000cded219576f4e094d1933c.m3u8][9]
-is available [here][10]
+### [DP029][9] - The Champ Twins!
 
-Fixed m3u8 file [DP028.m3u8][11]
+Original m3u8 file [1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8][10]
+is available [here][11]
 
-### [DP029][12] - The Champ Twins!
+Fixed m3u8 file [DP029.m3u8][12]
 
-Original m3u8 file [1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8][13]
-is available [here][14]
+### [DP037][13] - The Grass Menagerie!
 
-Fixed m3u8 file [DP029.m3u8][15]
+Original m3u8 file [1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8][14]
+is available [here][15]
 
-### [DP037][16] - The Grass Menagerie!
+Fixed m3u8 file [DP037.m3u8][16]
 
-Original m3u8 file [1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8][17]
-is available [here][18]
+### [DP040][17] - Top-Down Training!
 
-Fixed m3u8 file [DP037.m3u8][19]
+Original m3u8 file [1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8][18]
+is available [here][19]
 
-### [DP040][20] - Top-Down Training!
+Fixed m3u8 file [DP040.m3u8][20]
 
-Original m3u8 file [1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8][21]
-is available [here][22]
+### [DP044][21] - Mass Hip-Po-Sis!
 
-Fixed m3u8 file [DP040.m3u8][23]
+Original m3u8 file [1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8][22]
+is available [here][23]
 
-### [DP044][24] - Mass Hip-Po-Sis!
-
-Original m3u8 file [1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8][25]
-is available [here][26]
-
-Fixed m3u8 file [DP044.m3u8][27]
+Fixed m3u8 file [DP044.m3u8][24]
 
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][28]
+MP3 url streams can be tested using [this online tool][25]
 
 ## License
 
-episodes is released under the [MIT license][29]
+episodes is released under the [MIT license][26]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -63,26 +59,23 @@ episodes is released under the [MIT license][29]
   [4]: https://www.limelight.com/
   [5]: https://en.wikipedia.org/wiki/HTTP_Live_Streaming
   [6]: https://github.com/pkmntv/episodes/tree/master/DP006
-  [7]: https://github.com/pkmntv/episodes/tree/master/DP007    
-  [8]: https://bulbapedia.bulbagarden.net/wiki/DP028
-  [9]: https://raw.githubusercontent.com/pkmntv/episodes/master/1028---drifloon-on-the-wind-bcde3656216e52a000cded219576f4e094d1933c.m3u8
-  [10]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/ZG/gEZeJ5OWBPq7tCIrkDc6lp_sIe54qJMVyOEPoAWcA/1028---drifloon-on-the-wind-bcde3656216e52a000cded219576f4e094d1933c.m3u8
-  [11]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP028.m3u8
-  [12]: https://bulbapedia.bulbagarden.net/wiki/DP029
-  [13]: https://raw.githubusercontent.com/pkmntv/episodes/master/1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8
-  [14]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8Z/WeNEiO1TgFK4kxhg6db5eB0l3Qg5guDyeFabRd3v0/1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8
-  [15]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP029.m3u8
-  [16]: https://bulbapedia.bulbagarden.net/wiki/DP037
-  [17]: https://raw.githubusercontent.com/pkmntv/episodes/master/1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8
-  [18]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YX/8JK-bUki9ikTGiusm6SWFIVSrdlm9N30JDiS5O9FU/1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8
-  [19]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP037.m3u8
-  [20]: https://bulbapedia.bulbagarden.net/wiki/DP040
-  [21]: https://raw.githubusercontent.com/pkmntv/episodes/master/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
-  [22]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ud/U_sVvfDHuxlYLw-8HlrNVNlmAKXl_K77XwGk4R1kE/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
-  [23]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP040.m3u8
-  [24]: https://bulbapedia.bulbagarden.net/wiki/DP044
-  [25]: https://raw.githubusercontent.com/pkmntv/episodes/master/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
-  [26]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FK/N5gRNbKEC1pQvTT4n0VGCSvuaDAO8bmx8zxVo8nsY/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
-  [27]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP044.m3u8
-  [28]: http://player.streamingtvguides.com/
-  [29]: https://opensource.org/licenses/MIT
+  [7]: https://github.com/pkmntv/episodes/tree/master/DP007
+  [8]: https://github.com/pkmntv/episodes/tree/master/DP028
+  [9]: https://bulbapedia.bulbagarden.net/wiki/DP029
+  [10]: https://raw.githubusercontent.com/pkmntv/episodes/master/1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8
+  [11]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/8Z/WeNEiO1TgFK4kxhg6db5eB0l3Qg5guDyeFabRd3v0/1029---the-champ-twins-ca3ef4cb214b933b7b9270923e90ab7c0675e25c.m3u8
+  [12]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP029.m3u8
+  [13]: https://bulbapedia.bulbagarden.net/wiki/DP037
+  [14]: https://raw.githubusercontent.com/pkmntv/episodes/master/1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8
+  [15]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/YX/8JK-bUki9ikTGiusm6SWFIVSrdlm9N30JDiS5O9FU/1037---the-grass-menagerie-169ae88b5fd18da528a65a20965e34014560cc05.m3u8
+  [16]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP037.m3u8
+  [17]: https://bulbapedia.bulbagarden.net/wiki/DP040
+  [18]: https://raw.githubusercontent.com/pkmntv/episodes/master/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
+  [19]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/Ud/U_sVvfDHuxlYLw-8HlrNVNlmAKXl_K77XwGk4R1kE/1040---top-down-training-9f2e7bba9d5117e48a1fa33b1a2ab91a29042e17.m3u8
+  [20]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP040.m3u8
+  [21]: https://bulbapedia.bulbagarden.net/wiki/DP044
+  [22]: https://raw.githubusercontent.com/pkmntv/episodes/master/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
+  [23]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/FK/N5gRNbKEC1pQvTT4n0VGCSvuaDAO8bmx8zxVo8nsY/1044---mass-hip-po-sis-357d8279753bc79f72ce551143542433549ffc94.m3u8
+  [24]: https://raw.githubusercontent.com/pkmntv/episodes/master/DP044.m3u8
+  [25]: http://player.streamingtvguides.com/
+  [26]: https://opensource.org/licenses/MIT
