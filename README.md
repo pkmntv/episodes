@@ -68,7 +68,7 @@ episodes is released under the [MIT license][32]
   [3]: https://en.wikipedia.org/wiki/Content_delivery_network
   [4]: https://www.limelight.com/
   [5]: https://en.wikipedia.org/wiki/HTTP_Live_Streaming
-  [6]: https://github.com/pkmntv/episodes/DP006
+  [6]: https://github.com/pkmntv/episodes/tree/master/DP006
   [7]: https://bulbapedia.bulbagarden.net/wiki/DP007
   [8]: https://raw.githubusercontent.com/pkmntv/episodes/master/1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8
   [9]: https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/uE/P-JUoMCtUH6Lqtd5wTsbojS8j3pyRgdvrWXTxj5s8/1007---like-it-or-lup-it-4472400aa90a131db29f9b0b4f238fe8c5db0096.m3u8
