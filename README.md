@@ -23,13 +23,15 @@ brute force enumeration of the remaining characters.
 
 [DP044][12]
 
+[DP047][13]
+
 ## Viewing
 
-MP3 url streams can be tested using [this online tool][13]
+MP3 url streams can be tested using [this online tool][14]
 
 ## License
 
-episodes is released under the [MIT license][14]
+episodes is released under the [MIT license][15]
 
   [1]: https://en.wikipedia.org/wiki/M3U
   [2]: https://www.pokemon.com/uk/pokemon-episodes/
@@ -43,5 +45,6 @@ episodes is released under the [MIT license][14]
   [10]: https://github.com/pkmntv/episodes/tree/master/DP037
   [11]: https://github.com/pkmntv/episodes/tree/master/DP040
   [12]: https://github.com/pkmntv/episodes/tree/master/DP044
-  [13]: http://player.streamingtvguides.com/
-  [14]: https://opensource.org/licenses/MIT
+  [13]: https://github.com/pkmntv/episodes/tree/master/DP047
+  [14]: http://player.streamingtvguides.com/
+  [15]: https://opensource.org/licenses/MIT
